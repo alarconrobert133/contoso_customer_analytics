@@ -94,6 +94,10 @@ Three segments were defined:
 
 The analysis calculated total historical revenue, customer counts, and average historical LTV for each segment.
 
+**Results**
+
+![Customer Segmentation](images/historical_revenue.png)
+
 **Key Findings:**
 
 - Approximately 49,487 customers generated $206.27 million in historical revenue.
@@ -118,6 +122,10 @@ The analysis examined:
 
 Only transactions occurring on each customer's first purchase date were included in the revenue calculation.
 
+**Results**
+
+![Cohort Analysis](images/active_customers.png)
+
 **Key Findings**
 
 - 2016 recorded the highest average first-purchase-date revenue per customer, approximately $3,035.
@@ -141,6 +149,10 @@ A customer was defined as:
 To allow a full six-month observation period, customers whose first purchase occurred within the final six months were excluded.
 
 This analysis measures inactivity at the end of the observation period rather than traditional month-by-month cohort retention.
+
+**Results**
+
+![Customer Retention](images/first_purchase_date.png)
 
 **Key Findings**
 
